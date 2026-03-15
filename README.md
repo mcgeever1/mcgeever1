@@ -4,12 +4,8 @@ Looking to expand my understanding of econometrics, statistical modeling, and da
 
 Below are some of my projects. I will provide a brief description here, with more information in their respective README's and on my [website.](https://mcgeever1.github.io/)
 
-<br>
-
 I am in the process of aggregating all of my econ work here as well. Please stand by!  
 <sup>*sample available via email at request*</sup>
-
-<br>
   
 #### **mcgeever1.github.io**
 
