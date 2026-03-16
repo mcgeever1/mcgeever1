@@ -15,4 +15,4 @@ alshedivat. The bulk of this was done during a winter break; since then, I have 
 
 #### **Cascade**
 
-A vibe-coded Magic: The Gathering game built with Claude Code. It utilizes open access card database APIs to parse   tens of thousands of unique card data, then matches that data with a seperate database of an online deckbuilder     to determine which is found in more decks. Differing from my usual wheelhouse, I used Claude Code to build this     front-end project in a friend's living room on a free afternoon. 
+A vibe-coded Magic: The Gathering game built with Claude Code. It utilizes open access card database APIs to parse   tens of thousands of unique card data, then matches that data with a seperate database of an online deckbuilder     to determine which of the two options is found in more decks. Differing from my usual wheelhouse, I used Claude Code to build this front-end project in a friend's living room on a free afternoon. 
