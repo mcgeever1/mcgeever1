@@ -12,9 +12,16 @@ I am in the process of aggregating all of my econ work here as well. Please stan
 This is my [personal website](https://mcgeever1.github.io/), largely customized from a foundational template called al-folio by 
 alshedivat. The bulk of this was done during a winter break; since then, I have continued to upload new work whenever I find the time. Building the site in Jekyll has allowed me to expand my understanding of coding to a new language while still allowing my work to be the focus of my time. I look forward to continuing to upload my work as I continue to develop my skills. 
 
+#### **birds**
+
+I wanted to have a "non-math" representation of some of the applications of linear algebra. This was something I thought of during a lecture at a time when I was reading about birds a lot. It simulates bird flock patterns in 3D space using Python.
+
+[check it out!](https://mcgeever1.github.io/projects/birds)
+
+
 
 #### **Cascade**
 
-An API based Magic: The Gathering game built with Claude Code. It utilizes an open access card database to parse   tens of thousands of unique card data, then matches that data with a separate database of an online deckbuilder to determine which of the two options is found in more decks. Differing from my usual wheelhouse, I used Claude Code to start this front-end project in a friend's living room on a free afternoon. A full technical write up can be [found here.](https://mcgeever1.github.io/projects/2-project)
+An API based Magic: The Gathering game built with Claude Code. It utilizes an open access card database to parse   tens of thousands of unique card data, then matches that data with a separate database of an online deckbuilder to determine which of the two options is found in more decks. Differing from my usual wheelhouse, I used Claude Code to start the projects front-end in a friend's living room on a free afternoon. A full technical write up can be [found here.](https://mcgeever1.github.io/projects/2-project)
 
 [Play it here!](https://mcgeever1.github.io/mtg-cascade/)
